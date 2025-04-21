@@ -1,0 +1,9 @@
+season,member_casual,ride_count,total_rides,percent_of_season
+Fall,casual,591947,1560177,37.94
+Fall,member,968230,1560177,62.06
+Spring,casual,429271,1247063,34.42
+Spring,member,817792,1247063,65.58
+Summer,casual,1039756,2272507,45.75
+Summer,member,1232751,2272507,54.25
+Winter,casual,124133,545239,22.77
+Winter,member,421106,545239,77.23

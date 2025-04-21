@@ -1,0 +1,9 @@
+season,ride_count,avg_ride_duration,member_casual
+Fall,591947,19.17,casual
+Fall,968230,12.08,member
+Spring,429271,21.36,casual
+Spring,817792,12.04,member
+Summer,1232751,13.42,member
+Summer,1039756,22.71,casual
+Winter,421106,10.6,member
+Winter,124133,14.77,casual

@@ -1,0 +1,9 @@
+season,mean_ride_length,max_ride_length,mode_ride_length,member_casual
+Fall,725.09,86390,274,member
+Fall,1150.23,86396,274,casual
+Spring,1281.7,86442,266,casual
+Spring,722.4,85998,266,member
+Summer,1362.85,86362,292,casual
+Summer,805.39,85136,292,member
+Winter,636.1,85427,281,member
+Winter,886.23,85417,281,casual
