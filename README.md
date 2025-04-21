@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share User Behavior Analysis 🚲
+# Cyclistic Bike-Share User Behavior Analysis 
 
 Google Data Analytics Capstone Project  
 Author: Vim De Soysa  
@@ -6,12 +6,12 @@ Date: April 2025
 
 ---
 
-## 📌 Objective
+##  Objective
 Analyze how casual riders and annual members use Cyclistic bike-share services differently, and recommend marketing strategies to convert casual riders into annual members.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 | Folder     | Contents                                  |
 |------------|-------------------------------------------|
